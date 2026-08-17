@@ -14,13 +14,13 @@ Gemini currently does not natively support passing prompts via the URL (like ?pr
 
 ## **📸 Demo / Tutorial**
 
-<video src="assets/demo.gif" controls width="100%"></video>
+<img src="assets/demo.gif" alt="Demo" width="100%">
 
 ## **📥 Installation**
 
 ### **Manual Installation (Developer Mode)**
 
-1. Clone or download this repository.
+1. Clone or download this repository.`
 2. Open Chrome and navigate to chrome://extensions/.
 3. Toggle **Developer mode** in the top right corner.
 4. Click **Load unpacked**.
