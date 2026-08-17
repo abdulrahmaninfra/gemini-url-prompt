@@ -48,11 +48,6 @@ Create a custom web search or workflow with the following URL pattern:
 
 https://gemini.google.com/app?q=%s{query}
 
-#### **Windows Run / Mac Shortcuts**
-
-Create a shortcut that opens Chrome with the URL:
-chrome.exe "https://gemini.google.com/app?prompt=Your fixed prompt"
-
 #### **Chrome Custom Search Engine**
 
 Turn Gemini into a search engine so you can type your prompt directly in the address bar:
