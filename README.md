@@ -1,4 +1,4 @@
-[# **Gemini URL Prompt - Auto Prefill**
+# **Gemini URL Prompt - Auto Prefill**
 
 A simple but powerful Chrome extension (Manifest V3) that automatically pre-fills **and sends** your prompt to [Google Gemini](https://gemini.google.com/) using URL parameters.
 
