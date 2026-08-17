@@ -14,7 +14,7 @@ Gemini currently does not natively support passing prompts via the URL (like ?pr
 
 ## **📸 Demo / Tutorial**
 
-<video src="assets/demo.webm" controls width="100%"></video>
+<video src="assets/demo.gif" controls width="100%"></video>
 
 ## **📥 Installation**
 
