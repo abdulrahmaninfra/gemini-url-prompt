@@ -14,7 +14,7 @@ Gemini currently does not natively support passing prompts via the URL (like ?pr
 
 ## **📸 Demo / Tutorial**
 
-<video src="https://files.catbox.moe/v8fy80.webm" controls width="100%"></video>
+<video src="assets/demo.webm" controls width="100%"></video>
 
 ## **📥 Installation**
 
@@ -76,4 +76,4 @@ This extension does not collect, store, or transmit any personal data. It only o
 ## **📄 License**
 
 MIT License
-](https://files.catbox.moe/v8fy80.webm)
+
